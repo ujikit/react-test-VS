@@ -19,6 +19,42 @@ const TestLogic = () => {
       image: require('../../images/black.png'),
       totalLike: 0,
     },
+    {
+      image: require('../../images/lake.png'),
+      totalLike: 0,
+    },
+    {
+      image: require('../../images/splash.png'),
+      totalLike: 0,
+    },
+    {
+      image: require('../../images/black.png'),
+      totalLike: 0,
+    },
+    {
+      image: require('../../images/lake.png'),
+      totalLike: 0,
+    },
+    {
+      image: require('../../images/splash.png'),
+      totalLike: 0,
+    },
+    {
+      image: require('../../images/black.png'),
+      totalLike: 0,
+    },
+    {
+      image: require('../../images/lake.png'),
+      totalLike: 0,
+    },
+    {
+      image: require('../../images/splash.png'),
+      totalLike: 0,
+    },
+    {
+      image: require('../../images/black.png'),
+      totalLike: 0,
+    },
   ]);
 
   const _handleUpdateTotalLike = type => {
