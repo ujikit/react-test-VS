@@ -9,7 +9,7 @@ import styles from './styles';
 const ItemList = props => {
   const {item, index} = props;
 
-  const [totalLike, setTotalLike] = useState(item.totalLike);
+  const [totalLike, setTotalLike] = useState(0);
 
   useEffect(() => {
     setTotalLike(item.totalLike);
